@@ -27,8 +27,14 @@ Fully styled Streamlit UI for professional appearance and readability.
 ---
 
 ## 📷 Screenshots
+![Screenshot (37)](https://github.com/user-attachments/assets/aca2592e-9158-4372-bbff-66494ca374ab)
+![Screenshot (38)](https://github.com/user-attachments/assets/5d96f9ce-e758-4510-b8f0-6fdc49b04764)
+![Screenshot (39)](https://github.com/user-attachments/assets/f95f681d-a109-43ed-bb8a-02377ec4716e)
+![Screenshot (40)](https://github.com/user-attachments/assets/125d8868-fd15-408a-a551-f49260625077)
+![Screenshot (41)](https://github.com/user-attachments/assets/abfb1259-ee32-407e-92b0-03fa86ff45df)
+![Screenshot (42)](https://github.com/user-attachments/assets/956204dc-661d-494f-9008-1bb192a00015)
+![Screenshot (43)](https://github.com/user-attachments/assets/4aaf1e58-b11e-4b29-b511-3bd811a01f3f)
 
-> *(Add screenshots below after running the app)*
 
 - 📊 Sentiment distribution chart  
 - 🧪 Side effects table with severity  
