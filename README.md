@@ -37,4 +37,103 @@ Fully styled Streamlit UI for professional appearance and readability.
 ---
 
 ## 📁 Project Structure
+medifetch/
+├── app.py # Main Streamlit application
+├── requirements.txt # All dependencies
+└── README.md # Project documentation
 
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Installation
+
+```bash
+ Clone the repository
+git clone https://github.com/your-username/medifetch.git
+cd medifetch
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+🔐 API Key Setup (Groq for Report Generation)
+To enable medical report generation using LLaMA3:
+
+Get your API key from https://groq.com
+
+Open app.py and locate the following section:
+
+python
+Copy
+Edit
+openai.OpenAI(
+    base_url="https://api.groq.com/openai/v1",
+    api_key="your-api-key-here"
+)
+Replace "your-api-key-here" with your actual Groq API key.
+
+📦 Requirements
+Install all dependencies using:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Required libraries:
+streamlit
+
+requests
+
+beautifulsoup4
+
+nltk
+
+transformers
+
+matplotlib
+
+pandas
+
+reportlab
+
+openai
+
+📌 Use Cases
+Clinical review summaries
+
+Drug safety and side-effect profiling
+
+Medical research and analysis
+
+Patient education tool
+
+⚠️ Disclaimer
+This application is for educational and research purposes only.
+It does not replace professional medical consultation. Always consult a certified physician for medical advice.
+
+🙌 Acknowledgements
+Drugs.com – Data Source
+
+NLTK + VADER – Sentiment Analysis
+
+Hugging Face Transformers – NLP Models
+
+Groq – LLaMA3 Inference API
+
+Streamlit – Frontend Framework
+
+📫 Contact
+Created by Karthick G
+📧 Email: your.email@example.com
+🔗 LinkedIn: https://www.linkedin.com/in/your-profile
+
+⭐ Star the Repo
+If you found this project useful, please give it a ⭐ on GitHub and share it with others in the community!
