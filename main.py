@@ -178,7 +178,7 @@ def generate_report(reviews, side_effects, drug_name):
     """Generate report with dark theme formatting"""
     client = openai.OpenAI(
         base_url="https://api.groq.com/openai/v1",
-        api_key="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"
+        api_key=""Your api"
     )
 
     sentiment_counts = pd.Series([r[2] for r in reviews]).value_counts().to_dict()
