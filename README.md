@@ -50,9 +50,8 @@ Edit
 
 ## 🚀 Installation
 
-```bash
- Clone the repository
-git clone https://github.com/your-username/medifetch.git
+## Clone the repository
+git clone https://github.com/CodeWith-Karthick/Medifetch
 cd medifetch
 
 # (Optional) Create a virtual environment
@@ -132,8 +131,8 @@ Streamlit – Frontend Framework
 
 📫 Contact
 Created by Karthick G
-📧 Email: your.email@example.com
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile
+📧 Email: karthick14mm@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/11karthick/
 
 ⭐ Star the Repo
 If you found this project useful, please give it a ⭐ on GitHub and share it with others in the community!
